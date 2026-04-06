@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Itzel Godoy Lopez
 
-## <img src="https://media.giphy.com/media/WUlZQLmmG1PJcHQrCn/giphy.gif" width="30px"> Una apasionada Desarrolladora Full-Stack especializada en arquitecturas Back-End.
+## <img src="https://media.giphy.com/media/WUlZQLmmG1PJcHQrCn/giphy.gif" width="30px"> Un apasionado Desarrollador Full-Stack especializado en arquitecturas Back-End.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20software%20es%20una%20gran%20combinaci%C3%B3n%20entre%20el%20arte%20y%20la%20ingenier%C3%ADa.&author=Bill%20Gates" />
