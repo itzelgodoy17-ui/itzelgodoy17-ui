@@ -1,38 +1,38 @@
-# Hi there! 👋 I'm Itzel Godoy Lopez
+# ¡Hola! 👋 Soy Itzel Godoy Lopez
 
-## <img src="https://media.giphy.com/media/WUlZQLmmG1PJcHQrCn/giphy.gif" width="30px"> A passionate Full-Stack Developer specializing in Back-End architectures.
+## <img src="https://media.giphy.com/media/WUlZQLmmG1PJcHQrCn/giphy.gif" width="30px"> Una apasionada Desarrolladora Full-Stack especializada en arquitecturas Back-End.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Software%20is%20a%20great%20combination%20between%20art%20and%20engineering.&author=Bill%20Gates" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20software%20es%20una%20gran%20combinaci%C3%B3n%20entre%20el%20arte%20y%20la%20ingenier%C3%ADa.&author=Bill%20Gates" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mí
 
-My journey in software development is driven by curiosity and solving complex technical challenges. Recently, I successfully led the **Back-End** development for **MonteVino**, a comprehensive management platform for restaurants.
+Mi camino en el desarrollo de software está impulsado por la curiosidad y la resolución de desafíos técnicos complejos. Recientemente, lideré con éxito el desarrollo **Back-End** de **MonteVino**, una plataforma integral de gestión para restaurantes.
 
-Collaborating within a multidisciplinary team, I implemented mission-critical solutions such as:
-- 💳 **Mercado Pago Integration:** Fully functional payment gateway.
-- ☁️ **Cloudinary CDN:** Efficient cloud-based media management.
-- 🔐 **Secure Authentication:** Using Auth0 with social login integration.
-- 🔄 **Async Business Logic:** Real-time inventory synchronization and automated notifications.
+Colaborando en un equipo multidisciplinario, implementé soluciones críticas como:
+- 💳 **Integración de Mercado Pago:** Pasarela de pagos totalmente funcional.
+- ☁️ **CDN de Cloudinary:** Gestión eficiente de contenido multimedia en la nube.
+- 🔐 **Autenticación Segura:** Utilizando Auth0 con integración de inicio de sesión social.
+- 🔄 **Lógica de Negocio Asíncrona:** Sincronización de inventario en tiempo real y notificaciones automatizadas.
 
-I am dedicated to writing clean, scalable code and designing robust architectures that solve real-world business problems.
+Me dedico a escribir código limpio y escalable, diseñando arquitecturas robustas que resuelven problemas de negocio del mundo real.
 
 ---
 
-### 🛡️ Tech Stack
+### 🛡️ Stack Tecnológico
 
 <p align="left">
-  <strong>Languages:</strong><br>
+  <strong>Lenguajes:</strong><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br><br>
 
-  <strong>Back-End & Databases:</strong><br>
+  <strong>Back-End y Bases de Datos:</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -48,7 +48,7 @@ I am dedicated to writing clean, scalable code and designing robust architecture
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <br><br>
 
-  <strong>Tools & Others:</strong><br>
+  <strong>Herramientas y Otros:</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -57,7 +57,7 @@ I am dedicated to writing clean, scalable code and designing robust architecture
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzelgodoy17-ui&theme=tokyonight" alt="GitHub Streak" width="60%" />
@@ -72,7 +72,7 @@ I am dedicated to writing clean, scalable code and designing robust architecture
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Conectemos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/itzel-godoy-lopez-195a1a313" target="_blank">
@@ -84,5 +84,5 @@ I am dedicated to writing clean, scalable code and designing robust architecture
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzelgodoy17-ui&color=blue&style=flat-square&label=Profile%20Views" alt="View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=itzelgodoy17-ui&color=blue&style=flat-square&label=Vistas%20del%20Perfil" alt="Contador de Vistas" />
 </p>
