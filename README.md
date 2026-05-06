@@ -59,9 +59,7 @@ Me dedico a escribir código limpio y escalable, diseñando arquitecturas robust
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzelgodoy17-ui&theme=tokyonight" alt="GitHub Streak" width="60%" />
-</p>
+
 
 <p align="center">
 <a href="https://github.com/itzelgodoy17-ui">
